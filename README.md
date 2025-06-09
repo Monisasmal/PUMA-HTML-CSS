@@ -43,6 +43,12 @@ Either double-click the file
 Or use a live server (e.g., Live Server in VS Code)
 
 
+**Images**
+
+![image](https://github.com/user-attachments/assets/ca71284b-7880-467a-a5cc-25530471f8da)
+
+
+
 **🎯 What I Learned**
 
 Responsive web design using Flexbox and Grid
