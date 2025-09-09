@@ -1,14 +1,13 @@
-**🏃‍♀️ PUMA Website Clone (HTML & CSS Only)**
-
-Here is my PUMA APP link 👉👉    https://monisasmal.github.io/PUMA-HTML-CSS/
-
-
-**About**
+## 🏃‍♀️ PUMA Website Clone (HTML & CSS Only)
 
 This project replicates the clean, modern layout of Puma’s official website, emphasizing layout, visuals, and responsiveness using only front-end technologies
 
 
-**📌 Features**
+## 🌐 [Live Demo](https://monisasmal.github.io/PUMA-HTML-CSS/)
+
+
+
+## 📌 Features
 
 Fully responsive layout (mobile, tablet, desktop)
 
@@ -23,14 +22,14 @@ Stylish footer with links
 No external assets or images used
 
 
-**🛠 Tech Stack**
+## 🛠 Tech Stack
 
 HTML5 – Semantic structure
 
 CSS3 – Flexbox, Grid, media queries
 
 
-**🚀 How to Run**
+## 🚀 How to Run
 
 **1. Clone the repo:**
 
@@ -43,13 +42,13 @@ Either double-click the file
 Or use a live server (e.g., Live Server in VS Code)
 
 
-**Images**
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/ca71284b-7880-467a-a5cc-25530471f8da)
 
 
 
-**🎯 What I Learned**
+## 🎯 What I Learned
 
 Responsive web design using Flexbox and Grid
 
