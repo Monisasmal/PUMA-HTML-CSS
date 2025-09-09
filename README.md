@@ -57,7 +57,7 @@ Or use a live server (e.g., Live Server in VS Code)
 <img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/9712d40d-4c5e-4a85-af5d-1c4070635dd5" />
 <img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/9650d232-8154-494f-9bd0-b9bee39df581" />
 
-
+---
 
 
 ## 🎯 What I Learned
@@ -69,6 +69,8 @@ Building UI without images
 Creating modern layouts with just HTML and CSS
 
 Practicing mobile-first design approach
+
+---
 
 🙋‍♀️ Author
 
